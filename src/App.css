@@ -1,7 +1,3 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +31,29 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.center {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-between {
+  justify-content: space-between;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.ml-14 {
+  margin-left: 14px;
 }

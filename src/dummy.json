@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "product_name": "Indomie",
+            "product_price": 3000,
+            "product_stock": 50
+        },
+        {
+            "product_name": "Sabun",
+            "product_price": 10000,
+            "product_stock": 50
+        },
+        {
+            "product_name": "Bola",
+            "product_price": 15000,
+            "product_stock": 10
+        },
+        {
+            "product_name": "Guci",
+            "product_price": 1000000,
+            "product_stock": 2
+        },
+        {
+            "product_name": "Lampu",
+            "product_price": 50000,
+            "product_stock": 3
+        }
+    ]
+}
